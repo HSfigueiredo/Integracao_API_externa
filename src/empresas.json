@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Forbes Brasil",
+        "domain": "forbes.com.br",
+        "year_founded": 2012,
+        "industry": "Broadcast media",
+        "employees_count": 56,
+        "locality": "Sao Paulo",
+        "country": "Brazil",
+        "linkedin_url": "linkedin.com/company/forbes-brasil"
+    },
+    {
+        "name": "Ifood",
+        "domain": "ifood.com.br",
+        "year_founded": 2011,
+        "industry": "Internet",
+        "employees_count": 4119,
+        "locality": "Osasco",
+        "country": "Brazil",
+        "linkedin_url": "linkedin.com/company/ifood-"
+    }
+]
